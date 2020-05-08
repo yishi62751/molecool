@@ -17,6 +17,7 @@ This package requires the following:
 - Numpy
 - Matplotlib
 
+
 ### Copyright
 
 Copyright (c) 2020, Yi Shi
