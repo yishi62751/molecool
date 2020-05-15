@@ -1,0 +1,9 @@
+**********************************
+This is the start of test.txt
+******************************
+
+I add this file from a new clone
+
+******************
+This is the end
+**************
